@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/FernandoAvanzo/TemplateTest/tree/master/api
+	branch = master
+	commit = 2b753e2dc5c20547d19d3c858b6aaafee0b3a4f4
+	parent = 192441cc28a047c08961f7896b74bebf7ea29533
+	cmdver = 0.3.1
